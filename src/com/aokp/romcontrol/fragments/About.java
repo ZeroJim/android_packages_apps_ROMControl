@@ -53,13 +53,13 @@ public class About extends AOKPPreferenceFragment {
     @Override
     public boolean onPreferenceTreeClick(PreferenceScreen preferenceScreen, Preference preference) {
         if (preference == mSiteUrl) {
-            launchUrl("http://aokp.co/");
+            launchUrl("http://www.mycomputerdoctor.net/");
         } else if (preference == mSourceUrl) {
-            launchUrl("http://github.com/aokp");
+            launchUrl("http://github.com/FactoryROM");
         } else if (preference == mReviewUrl) {
-            launchUrl("http://gerrit.aokp.co");
+            launchUrl("http://github.com/FactoryROM");
         } else if (preference == mIrcUrl) {
-            launchUrl("http://webchat.freenode.net/?channels=teamkang");
+            launchUrl("http://webchat.freenode.net/?channels=factoryrom");
         }
         return super.onPreferenceTreeClick(preferenceScreen, preference);
     }
