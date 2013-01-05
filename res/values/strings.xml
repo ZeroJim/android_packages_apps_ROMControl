@@ -91,8 +91,8 @@
     <string name="group_applications">Applications</string>
 
     <!-- About -->
-    <string name="devs">The Crew</string>
-    <string name="aokp">Android Open Kang Project</string>
+    <string name="devs">Team FactoryROM</string>
+    <string name="aokp">FactoryROM AOSP</string>
     <string name="aokp_website_title">FactoryROM Website</string>
     <string name="aokp_website_summary">www.goo.im - Find all newest releases here under FactoryROM.</string>
     <string name="aokp_source_title">FactoryROM Source</string>
